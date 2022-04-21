@@ -2,6 +2,15 @@
 
 ### En aquest repositori podem observar algunes comandes de Git més essencials per poder treballar amb el controlador de versions Git. 
 
+## Com Descarregar Git
+
+<https://git-scm.com/downloads>
+
+## Com afegir claus SSH de Github
+
+<https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
+
+
 ## Comandes Git 
 ### "prova" és una branca d'exemple.
 ### "xxxxx" és un hash de un commit o branca d'exemple.
