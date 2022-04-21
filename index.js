@@ -57,6 +57,10 @@ const loadAdds = ()  => {
   console.log('Adds loaded')
 }
 
+const affiliateRedirect = () => {
+  //RESOLVER BUG
+}
+
 // cambio 1 
 
 // cambio 2
