@@ -1,4 +1,4 @@
-# Guia Git
+# Guide Git
 
 ### En aquest repositori podem observar algunes comandes de Git més essencials per poder treballar amb el controlador de versions Git. 
 
